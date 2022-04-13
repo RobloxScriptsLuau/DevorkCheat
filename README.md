@@ -6,9 +6,9 @@ A basic cheat for [KoGaMa](https://www.kogama.com/) WebGL
 Version 1.6 and latest
 
 ## Avaiable
-- WWW
-- BR
-- FRIENDS
+- [WWW](https://www.kogama.com/)
+- [BR](https://kogama.com.br/)
+- [FRIENDS](https://friends.kogama.com/)
 
 ## Credits
 - Exnonull / 0vC4
