@@ -14,7 +14,6 @@ Version 1.6 and latest
 - Exnonull / 0vC4
 - Devork
 - Lawlao
-- Masterix
 
 ## Installation
 
