@@ -1,9 +1,11 @@
-# Devork Cheat
+# Devork Cheat 1.6
 
-A basic cheat for [KoGaMa](https://www.kogama.com/) WebGL
+Basic cheat for [KoGaMa](https://www.kogama.com/) Browser
 
-## Version
-Version 1.6 and latest
+## Info
+- I have edited [Exnonull Cheat Console](https://www.youtube.com/watch?v=ScNdx-aLQX4/) to make this script.
+- Version 1.6
+- Published on April 13
 
 ## Avaiable
 - [WWW](https://www.kogama.com/)
@@ -17,13 +19,13 @@ Version 1.6 and latest
 
 ## Installation
 
-To install this script, first download [Tampermonkey](https://www.tampermonkey.net/) addon to run the script.
+1. Download [Tampermonkey](https://www.tampermonkey.net/) extension to inject this script.
 
-After you have installed this extension, click on [Download](https://github.com/Devoxxo/Devork-Cheat/raw/main/Devork%20Menu%201.6.user.js)
+2. If the extension was successfully installed, click this [link](https://github.com/Devorkk/Devork_Cheat_1.6/raw/main/Cheat/Devork_Cheat_1.6.user.js) and install. 
 
 ## How to use?
 1. Join any [KoGaMa](https://www.kogama.com/) game.
-2. To open the cheat, a button **Menu** will appear at the top. 
+2. To open this menu, below this image, you will see a button.
 <img src="https://media.discordapp.net/attachments/954372416912642108/963773656742363256/image.jpg" alt="Image"/>
 
 ## Results
