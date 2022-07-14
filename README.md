@@ -1,6 +1,8 @@
 # Devork Cheat 1.6
 
-Basic cheat for [KoGaMa](https://www.kogama.com/) Browser
+Basic cheat for [KoGaMa](https://www.kogama.com/) WebGL
+
+Check [Devork Cheat 1.6](https://www.youtube.com/watch?v=aFdAI0efAKE) in Youtube.
 
 ## Info
 - I have edited [Exnonull Cheat Console](https://www.youtube.com/watch?v=ScNdx-aLQX4/) to make this script.
@@ -21,7 +23,7 @@ Basic cheat for [KoGaMa](https://www.kogama.com/) Browser
 
 1. Download [Tampermonkey](https://www.tampermonkey.net/) extension to inject this script.
 
-2. If the extension was successfully installed, click this [link](https://github.com/Devorkk/Devork_Cheat_1.6/raw/main/Cheat/Devork_Cheat_1.6.user.js) and install. 
+2. If the extension was successfully installed, click this [link](https://github.com/Devorkk/Devork_Cheat_1.6/raw/main/Cheat/Devork_Cheat_1.6.user.js) and install.
 
 ## How to use?
 1. Join any [KoGaMa](https://www.kogama.com/) game.
