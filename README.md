@@ -2,7 +2,7 @@
 
 Basic cheat for [KoGaMa](https://www.kogama.com/) WebGL
 
-Check [Devork Cheat 1.6](https://www.youtube.com/watch?v=aFdAI0efAKE) in Youtube.
+Watch [Devork Cheat 1.6](https://www.youtube.com/watch?v=aFdAI0efAKE) in Youtube.
 
 ## Info
 - I have edited [Exnonull Cheat Console](https://www.youtube.com/watch?v=ScNdx-aLQX4/) to make this script.
