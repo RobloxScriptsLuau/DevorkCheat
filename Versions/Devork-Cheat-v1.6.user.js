@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name                 Devork Menu [BETA]
+// @name                 Devork Menu
 // @run-at               document-start
 // @version              1.6
 // @author               Devork
