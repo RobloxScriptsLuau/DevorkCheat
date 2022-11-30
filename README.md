@@ -61,8 +61,7 @@ Currently available on the following servers:<br>
 ## Versions
 <details><summary>Reveal Information</summary><br>
  
-[Download Devork Cheat v1.7](https://github.com/Devorkk/Devork-Cheat-1.7/raw/main/Cheat/Devork%20Cheat%201.7.user.js)
-<br>
-[Download Devork Cheat v1.6](https://github.com/Devorkk/Devork-Cheat-1.6/raw/main/Cheat/Devork%20Cheat%201.6.user.js)
+- [Download Devork Cheat v1.7](https://github.com/Devorkk/DevorkCheat/raw/main/Versions/v1.7/Devork-Cheat-v1.7.user.js)
+- [Download Devork Cheat v1.6](https://github.com/Devorkk/DevorkCheat/raw/main/Versions/v1.6/Devork-Cheat-v1.6.user.js)
 
 </details>    
