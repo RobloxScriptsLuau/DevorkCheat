@@ -1,34 +1,68 @@
-# Devork Cheat 1.6
+<div align="center">
+      <h1> <img src="https://static.kogstatic.com/0000/39066da2c2bb7744d2d9f9f6981ed216256a8a9e/09121f2cb5633e9732ca82df4d1adf1f.jpg" width="80px"><br/>Devork WebGL Cheat</h1>
+     </div>
 
-## What is this?
-[Devork Cheat 1.6](https://www.youtube.com/watch?v=aFdAI0efAKE) is a basic cheat for KoGaMa WebGL (web-based).
+
+# About
+Devork Cheat is a script that modifies the behavior of the KoGaMa game **web-only** through websockets and written in Javascript.
+
+# Screenshot
+ <img src="https://cdn.discordapp.com/attachments/1002643229717573664/1047612929916272700/image.png">
+  
+## Installation
+<details><summary>Reveal Information</summary><br>
+
+To download the script it is necessary to have a **script executor**, for this you can install **tampermonkey** and download according to the browser you are currently using:
+ 
+* **[Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)**
+* **[Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)**
+* **[Tampermonkey for Safari](https://apps.apple.com/app/apple-store/id1482490089?pt=117945903&ct=tm.net&mt=8)**
+
+After installing the extension click the button below and you will be redirected to the installation.
+
+[<img src="https://cdn.discordapp.com/attachments/997183409900228638/997988211215306782/btn.png" width="150"/>](x)
+
+
+</details>
+
+## Usage
+<details><summary>Reveal Information</summary>
 <br>
-I have edited [Exnonull Cheat Console](https://www.youtube.com/watch?v=ScNdx-aLQX4/) to make this script.
+ 
+* Join any KoGaMa map.
+* Then, a button will appear at the top middle, click it to display the menu.
+* Now you should be ready to go!
 
-## Avaiable
-- WWW
-- BR
-- FRIENDS
+<img src="https://cdn.discordapp.com/attachments/1002643229717573664/1047626916674424984/image.jpeg">
+
+</details>
+
+## Availability
+<details><summary>Reveal Information</summary><br>
+&nbsp;
+Currently available on the following servers:<br>
+&nbsp;
+ 
+* **[KoGaMa WWW](https://www.kogama.com)**
+* **[KoGaMa Brazil](https://www.kogama.com.br)**
+* **[KoGaMa Friends](https://friends.kogama.com)**
+
+</details>
 
 ## Credits
-- Exnonull / 0vC4
-- Devork
-- Lawlao
+<details><summary>Reveal Information</summary><br>
+ 
+* Exnonull
+* Devork
+* Lawlao
 
-## Installation
+</details>    
 
-1. Download [Tampermonkey](https://www.tampermonkey.net/) extension to inject this script.
+## Versions
+<details><summary>Reveal Information</summary><br>
+ 
+[Download Devork Cheat v1.7](x)
+<br>
+[Download Devork Cheat v1.6](x)
 
-2. If the extension was successfully installed, click on the button below and install.
-
-ㅤㅤㅤ[<img src="https://cdn.discordapp.com/attachments/997183409900228638/997988211215306782/btn.png" width="150"/>](https://github.com/Devorkk/Devork_Cheat_1.6/raw/main/Cheat/Devork_Cheat_1.6.user.js)
-
-
-## How to use?
-- Join any KoGaMa game.
-- Once you are inside the game, a bottom will appear on the surface, clicking on it you can display the menu
-
- ㅤㅤ![image](https://media.discordapp.net/attachments/954372416912642108/963773656742363256/image.jpg)
-
-![image](https://user-images.githubusercontent.com/88288729/163179044-c9ffd3b7-7b9a-416f-aa43-b244222ef5ad.png)
-
+</details>    
