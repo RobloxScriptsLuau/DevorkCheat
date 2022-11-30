@@ -20,7 +20,7 @@ To download the script it is necessary to have a **script executor**, for this y
 
 After installing the extension click the button below and you will be redirected to the installation.
 
-[<img src="https://cdn.discordapp.com/attachments/997183409900228638/997988211215306782/btn.png" width="150"/>](x)
+[<img src="https://cdn.discordapp.com/attachments/997183409900228638/997988211215306782/btn.png" width="150"/>](https://raw.githubusercontent.com/Devorkk/DevorkCheat/main/Versions/v1.7/Devork-Cheat-Source-v1.7.js)
 
 
 </details>
@@ -61,8 +61,8 @@ Currently available on the following servers:<br>
 ## Versions
 <details><summary>Reveal Information</summary><br>
  
-[Download Devork Cheat v1.7](x)
+[Download Devork Cheat v1.7](https://raw.githubusercontent.com/Devorkk/DevorkCheat/main/Versions/v1.7/Devork-Cheat-Source-v1.7.js)
 <br>
-[Download Devork Cheat v1.6](x)
+[Download Devork Cheat v1.6](https://raw.githubusercontent.com/Devorkk/DevorkCheat/main/Versions/v1.6/Devork-Cheat-Source-v1.6.js)
 
 </details>    
