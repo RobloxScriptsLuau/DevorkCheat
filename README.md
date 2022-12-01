@@ -33,7 +33,7 @@ After installing the extension click the button below and you will be redirected
 * Then, a button will appear at the top middle, click it to display the menu.
 * Now you should be ready to go!
 
-<img src="https://cdn.discordapp.com/attachments/1002643229717573664/1047626916674424984/image.jpeg">
+<img src="https://cdn.discordapp.com/attachments/1002643229717573664/1047883396061331497/image.jpeg">
 
 </details>
 
